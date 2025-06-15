@@ -1,0 +1,7 @@
+{
+  "name": "My Vite Plugin",
+  "id": "my-vite-plugin",
+  "main": "dist/code.js",
+  "ui": "dist/index.html",
+  "editorType": ["figma"]
+}
