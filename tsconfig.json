@@ -6,7 +6,8 @@
     "jsx": "react-jsx",
     "strict": true,
     "esModuleInterop": true,
-    "types": ["node"]
+    "types": ["@figma/plugin-typings"],
+     
   },
   "include": ["code.ts", "ui"]
 }

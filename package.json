@@ -11,10 +11,13 @@
   },
   "dependencies": {
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.1.0",
+    "vite-plugin-singlefile": "^2.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.25.0",
+    "@figma/eslint-plugin-figma-plugins": "*",
+    "@figma/plugin-typings": "*",
     "@tailwindcss/vite": "^4.1.10",
     "@types/node": "^24.0.1",
     "@types/react": "^19.1.2",
